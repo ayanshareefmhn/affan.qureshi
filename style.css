@@ -17,3 +17,14 @@ p{
 html{
     background-color: black;
 }
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100%;
+}
+.pic{
+    border: 5px solid white;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
