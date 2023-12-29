@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: #739072;
+}
+img{
+    border-image: 50%;
+    background-color: aqua;
+    border-width: 40px 40px;
+    font-style: italic;
+}
+p{
+    text-align: center;
+    color: #7BD3EA;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-style: italic;
+}
+html{
+    background-color: black;
+}
